@@ -1,0 +1,6 @@
+emetrotel.com
+*.emetrotel.com
+emetrotel.net
+*.emetrotel.net
+emetrotel.org
+*.emetrotel.org
