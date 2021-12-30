@@ -1,0 +1,9 @@
+{
+	"cache_domains": [
+		{
+			"name": "grandstream",
+			"description": "grandstream",
+			"domain_files": ["grandstream.txt"]
+		},
+	]
+}
