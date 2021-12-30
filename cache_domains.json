@@ -2,8 +2,13 @@
 	"cache_domains": [
 		{
 			"name": "grandstream",
-			"description": "grandstream",
+			"description": "grandstream phones",
 			"domain_files": ["grandstream.txt"]
+		},
+		{
+			"name": "yealink",
+			"description": "yealink phones",
+			"domain_files": ["yealink.txt"]
 		},
 	]
 }
