@@ -1,2 +1,4 @@
 yealink.com
 support.yealink.com
+*.yealink.com
+*.support.yealink.com
