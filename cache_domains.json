@@ -11,6 +11,11 @@
 			"domain_files": ["blizzard.txt"]
 		},
 		{
+			"name": "broadband",
+			"description": "File Test Download",
+			"domain_files": ["boardband.txt"]
+		},
+		{
 			"name": "yealink",
 			"description": "Yealink Phones",
 			"domain_files": ["yealink.txt"]
