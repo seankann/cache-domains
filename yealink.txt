@@ -1,2 +1,2 @@
 yealink.com
-firmware.yealink.com
+support.yealink.com
