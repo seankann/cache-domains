@@ -9,6 +9,6 @@
 			"name": "yealink",
 			"description": "yealink phones",
 			"domain_files": ["yealink.txt"]
-		},
+		}
 	]
 }
