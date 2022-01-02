@@ -18,7 +18,7 @@
 		{
 			"name": "random_ip",
 			"description": "Random IPs",
-			"domain_files": ["randomips.txt"]
+			"domain_files": ["ips.txt"]
 		},
 		{
 			"name": "yealink",
