@@ -11,9 +11,9 @@
 			"domain_files": ["blizzard.txt"]
 		},
 		{
-			"name": "broadband",
+			"name": "thinkboardband",
 			"description": "File Test Download",
-			"domain_files": ["boardband.txt"]
+			"domain_files": ["thinkboardband.txt"]
 		},
 		{
 			"name": "yealink",
