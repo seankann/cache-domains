@@ -6,6 +6,11 @@
 			"domain_files": ["grandstream.txt"]
 		},
 		{
+			"name": "blizzard2",
+			"description": "Blizzard Test",
+			"domain_files": ["blizzard.txt"]
+		},
+		{
 			"name": "yealink",
 			"description": "Yealink Phones",
 			"domain_files": ["yealink.txt"]
