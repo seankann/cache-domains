@@ -16,11 +16,6 @@
 			"domain_files": ["thinkboardband.txt"]
 		},
 		{
-			"name": "random_ip",
-			"description": "Random IPs",
-			"domain_files": ["ips.txt"]
-		},
-		{
 			"name": "yealink",
 			"description": "Yealink Phones",
 			"domain_files": ["yealink.txt"]
