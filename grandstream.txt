@@ -1,4 +1,2 @@
 grandstream.com
-firmware.grandstream.com
 *.grandstream.com
-*.firmware.grandstream.com
