@@ -15,10 +15,15 @@
 			"description": "File Test Download",
 			"domain_files": ["thinkboardband.txt"]
 		},
-		{
+	{
 			"name": "emetrotel",
 			"description": "Emetrotel Phones",
 			"domain_files": ["emetrotel.txt"]
+		},
+		{
+			"name": "aws",
+			"description": "AWS",
+			"domain_files": ["aws.txt"]
 		},
 		{
 			"name": "yealink",
