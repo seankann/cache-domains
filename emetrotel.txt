@@ -1,3 +1,8 @@
 emetrotel.com
+*.emetrotel.com
 emetrotel.net
+*.emetrotel.net
 emetrotel.org
+*.emetrotel.org
+repo.ux-c.org
+*.repo.ux-c.org
