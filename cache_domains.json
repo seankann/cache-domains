@@ -15,7 +15,7 @@
 			"description": "File Test Download",
 			"domain_files": ["thinkboardband.txt"]
 		},
-	{
+		{
 			"name": "emetrotel",
 			"description": "Emetrotel Phones",
 			"domain_files": ["emetrotel.txt"]
