@@ -4,4 +4,4 @@ emetrotel.net
 *.emetrotel.net
 emetrotel.org
 *.emetrotel.org
-repo.ux-c.org
+repo.uc-x.org
